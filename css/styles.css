@@ -19,7 +19,7 @@ body{
 }
 .img1{
     display: flex;
-    background-image: url(../IMG/img1.jpg);
+    background-image: url(../img/img1.jpg);
 }
 h1{
     text-align: center;
